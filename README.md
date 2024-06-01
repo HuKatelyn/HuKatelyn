@@ -1,7 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Katelyn! <br/>Student<h1>
+
+<h2>👨‍💻 Java Projects:</h2>
+
+- [Clue](https://github.com/HuKatelyn.LABURL)
+- [Blackjack](https://github.com/HuKatelyn.LABURL)
+- [Space Shooter](https://github.com/HuKatelyn.LABURL)
+- [Pixel Art](https://github.com/HuKatelyn.LABURL)
+
+<h2> 🤳 Connect with me:</h2>
+
+Email: hu.katelyn08@gmail.com
+
 
 <!--
-**HuKatelyn/HuKatelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
