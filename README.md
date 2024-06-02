@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Java Projects:</h2>
 
-- [Clue](https://github.com/HuKatelyn.LABURL)
+- [Clue](https://github.com/HuKatelyn/Clue)
 - [Blackjack](https://github.com/HuKatelyn.LABURL)
 - [Space Shooter](https://github.com/HuKatelyn.LABURL)
 - [Pixel Art](https://github.com/HuKatelyn.LABURL)
