@@ -4,7 +4,7 @@
 
 - [Clue](https://github.com/HuKatelyn/Clue)
 - [Blackjack](https://github.com/HuKatelyn/BlackJack)
-- [Space Shooter](https://github.com/HuKatelyn.LABURL)
+- [Space Shooter](https://github.com/HuKatelyn/SpaceShooter)
 - [Pixel Art](https://github.com/HuKatelyn/PixelArtLab)
 
 <h2> 🤳 Connect with me:</h2>
